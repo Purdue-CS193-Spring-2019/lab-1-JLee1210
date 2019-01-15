@@ -1,13 +1,14 @@
+# Jaden Lee's first CS193 Lab
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Teams
-Knicks
-Seahawks
-Dodgers
+### Things I like about CS193
+- Easy A
+- 1 class/lab per week
+- No professors!
 
 ### Markdown
 
